@@ -1,1 +1,0 @@
-I followed an online tutorial to implement a tic-tac-toe game. It's main feature is the Minimax algorithm. The Minimax algorithm is essentially an algorithm in decision making and game theory that finds the optimal move for a player, assuming that your opponent also plays optimally. 
